@@ -2,6 +2,7 @@
 
 ***Authors: Daniel Vigild Juhász, Frederik Kromann Hansen & Lau Johansson*** <br /> <br />
 
+![alt text](https://raw.githubusercontent.com/LauJohansson/ImageSegmentation_lung_CT/master/Figure_4.png?raw=true)
 
 This repository contains hand-in assignment for the DTU course 02514 Deep learning in computer vision. 
 
